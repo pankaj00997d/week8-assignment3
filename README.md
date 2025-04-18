@@ -1,11 +1,13 @@
 # Requisition Management system
-
-# About project:
+ Name:- Pankaj Thapa
+ student ID :- 20240641
+  project:-Requisition Management system.
+ # About project:
 I make a project of Python called a "Requisition Management system" that helps to the staff members to submit requests for the items and calculates the cost of it, and lets an admin (me)  to reject or approved the request of its decision.
 After that, the system shows all requests and give a summary upon how many were approved, pending, or not approved.
 The aim of this projectis to show how software design principles and  how pattern can be used in real code. This helps to make the programe easy to read, simple to use, and ready for future improvements
 
-#Design principles used:
+# Design principles used:
 1. Encapsulation:
    All logic is positioned within a class called 'requestsystem'. Everything related to requisitions-staff info, item cost, approval status-is also stored and managed in one place.
 
@@ -27,4 +29,17 @@ The aim of this projectis to show how software design principles and  how patter
 # Design Patterns:
 Factory Pattern:In this pattern every time a new requisition is made, the system creates it using a method, like a small factory.
 Work flow: The program follows a clear process : create reruest - add item - respond - display - summarize.
-These
+# what this program does:
+It creates sample staff requisitions
+Adds items and calculates total cost of it
+Approves or not approved eachh request
+Displays all requisitions with status and cost
+And then, shows a summary of approval.
+# Summary
+This program is a practical example of using object- oriented design and software principles like encapsulation and SRP. 
+It's clean, simple, and built future expansion in mind.
+
+Thankyou
+
+
+
